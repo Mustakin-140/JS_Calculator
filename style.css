@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.button{
+  padding:20px;
+  border-radius: 6px;
+  box-shadow: yellow;
+  margin: 0 3px;
+  border: 2px solid black;
+  cursor: pointer;
+  width: 50px;
+}

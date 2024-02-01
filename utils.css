@@ -1,0 +1,36 @@
+.text-center{
+  text-align: center;
+}
+.bg-red{
+  background: green;
+}
+.mx-auto{
+  margin: auto;
+}
+.m-w-20{
+  max-width:28vw;
+}
+
+.flex{
+  display: flex;
+} 
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
+.row{
+  margin: 12px 0;
+}
+
+.row input{
+  margin: 0;
+  padding: 15px 38px;
+  border: 2px solid black;
+  border-radius: 6px;
+  background: #d4a5a5;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+}
